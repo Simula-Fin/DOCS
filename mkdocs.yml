@@ -1,0 +1,50 @@
+site_name: PCGO
+theme:
+    name: material
+    palette:
+        primary: custom
+    font:
+        text: Roboto
+    # logo: assets/logo.png
+    features:
+        - content.code.annotate
+        - content.tabs.link
+        - header.autohide
+        - navigation.instant
+        - navigation.sections
+        - navigation.tabs
+        - navigation.top
+        - navigation.tracking
+
+nav:
+    # - Sobre: index.md
+    - Guias:
+        - Guia de Commit: guide/commit_guide.md
+        - Guia de Estilo: guide/style_guide.md
+        - Protótipo: prototype.md
+    - Comunicação:
+        - Rituais da Equipe:  rituals.md
+        - Relatório de Eventos: 
+            - Semana 1: reports/week1.md
+    - Planejamento:
+        - Planejamento: planning.md
+        - Quadro de conhecimento: projectControl/knowledge_board.md
+        - Quadro de disponibilidade: projectControl/schedule_board.md
+    - Planos:
+        - Plano de custos: plans/costs_plan.md
+        - Plano de riscos: plans/risk_plan.md
+    - Definições do Projeto:
+        - Metodologias: projectDescription/index.md
+        - Plano de qualidade: Planos/plano_de_qualidade.md
+        - Plano de comunicacao: plans/communication_plan.md
+    - Gestão de Projeto:
+        - Modelo de gestão: projectManagment/index.md
+    - Lean Inception:
+        - Dinamicas: lean/dynamics.md
+        - Lean: lean/index.md
+    - Arquitetura:
+        - Documento de arquitetura: architecture/index.md
+    - Relatório de Encerramento do Projeto: reports/final_report.md
+
+extra_css:
+  - stylesheets/extra.css
