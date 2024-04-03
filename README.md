@@ -22,7 +22,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 | Cibele Freitas Goudinho | 180099353 | Dev | CibeleG |  |
 | Eurico Menezes de Abreu Neto | 200017519 | Dev  | EuricoAbreu |  |
 | Guilherme Daniel Fernandes da Silva | 180018019 | Product Owner | guilhermedfs14 |  |
-| Joao Henrique Marques Calzavara | 200067923 | Dev | joao-henrique10 |  |
+| Joao Henrique Marques Calzavara | 200067923 | Dev | joao-henrique10 | jhcalzavara@hotmail.com |
 | João Vitor de Souza Durso | 180123459 | Dev | jvsdurso |  |
 | João Vitor Ferreira Alves | 160127912 | Tester | vitorAlves7 |  |
 | Julia Farias Sousa | 180103792 | Designer | julisous |  |
