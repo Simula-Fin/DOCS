@@ -55,6 +55,54 @@
 ![Persona 4](../assets/LeanInception/Personas4.png)
 
 
+### Jornadas do Usuário:
+![Jornada do usuario](../assets/LeanInception/jornadaDoUsuario.png)
+
+#### Resultado:
+![Jornada do usuario 1](../assets/LeanInception/Jornada1.png)
+
+<br>
+
+![Jornada do usuario 2](../assets/LeanInception/Jornada2.png)
+
+<br>
+
+![Jornada do usuario 3](../assets/LeanInception/Jornada3.png)
+
+<br>
+
+![Jornada do usuario 4](../assets/LeanInception/Jornada4.png)
+
+### Brainstorming de funcionalidades:
+
+![Brainstorming de funcionalidades](../assets/LeanInception/Brainstorming.png)
+
+#### Resultados:
+![Brainstorming de funcionalidades](../assets/LeanInception/Brainstorming1.png)
+
+### Revisão técnica de negocios e de UX:
+![Revisao tecnica](../assets/LeanInception/RevTecnica.png)
+
+#### Resultados:
+
+![Revisao tecnica](../assets/LeanInception/RevTecnica1.png)
+
+### Sequenciador:
+
+![Sequenciador](../assets/LeanInception/Sequenciador.png)
+
+#### Resultados:
+
+![Sequenciador](../assets/LeanInception/Sequenciador1.png)
+
+### Canvas MVP
+
+![Canvas MVP](../assets/LeanInception/MVP.png)
+
+#### Resultados:
+
+
+
 ## Bibliografia
 
 ## Histórico de versão
@@ -62,3 +110,4 @@
 | ---- | ---- | ---- | ---- |
 | 03/04/2024 | 1.0 | Criação do Documento | João Henrique |
 | 03/04/2024 | 1.1 | Revisão do Documento | Cibele Freitas Goudinho |
+| 04/04/2024 | 1.2 | Adicionando Jornadas,brainstorming, revisao técnica e sequenciador | João Henrique |
