@@ -5,32 +5,32 @@ para facilitar a integração do grupo em início do projeto e acelerar a criaç
 ## Objetivo
 Fizemos um levantamento com os membros de qual seria o objetivo do projeto na visão de cada um.
 
-![Objetivo](Midia/objetico_dinamica.png)
+![Objetivo](../assets/Dynamic/objetico_dinamica.png)
 
 ## Pontos Fortes
 Os membros citaram quais seriam os pontos fortes que eles viam na equipe e no projeto.
 
-![Pontos Fortes](Midia/pontos_fortes_dinamica.png)
+![Pontos Fortes](../assets/Dynamic/pontos_fortes_dinamica.png)
 
 ## Barreiras Internas
 Foi levantado quais seriam as barreiras internas para cada membro.
 
-![Barreiras Internas](Midia/barreiras_internas_dinamica.png)
+![Barreiras Internas](../assets/Dynamic/barreiras_internas_dinamica.png)
 
 ## Barreiras Externas
 Foi levantado quais seriam as barreiras externas para cada membro.
 
-![Barreiras Externas](Midia/barreiras_externas_dinamica.png)
+![Barreiras Externas](../assets/Dynamic/barreiras_externas_dinamica.png)
 
 ## Clusterização de ideias
 Fizemos um Brainstorm com os membros do grupo para levantar possíveis serviços e/ou microserviços para o nosso projeto.
 O resultado desse Brainstorm usamos para definir as personas do Canvas MVP.
 
-![Clusterização de ideias](Midia/ideias_dinamica.png)
+![Clusterização de ideias](../assets/Dynamic/ideias_dinamica.png)
 
 ### Resultado da Clusterização
 
-![Resultado da Clusterização](Midia/resultado_ideias_dinamica.png)
+![Resultado da Clusterização](../assets/Dynamic/resultado_ideias_dinamica.png)
 
 
 ## Histórico de versão

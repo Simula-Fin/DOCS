@@ -17,42 +17,42 @@
 
 ### Visão do produto
 
-![Visão do Produto](assets/LeanInception/VisaodoProduto1.png)
+![Visão do Produto](../assets/LeanInception/VisaodoProduto1.png)
 
 #### Resultado:
 
-![Resultado Visão do Produto](assets/LeanInception/VisaodoProduto2.png)
+![Resultado Visão do Produto](../assets/LeanInception/VisaodoProduto2.png)
 
 ### É Não É, Faz Não faz
 
-![É Não É](assets/LeanInception/ENaoE.png)
+![É Não É](../assets/LeanInception/ENaoE.png)
 
 #### Resultado:
 
-![Resultado É Não É](assets/LeanInception/ENaoE1.png)
-![Resultado É Não É](assets/LeanInception/ENaoE2.png)
+![Resultado É Não É](../assets/LeanInception/ENaoE1.png)
+![Resultado É Não É](../assets/LeanInception/ENaoE2.png)
 
 ### Objetivos do produto:
 
-![Objetivos do produto](assets/LeanInception/ObjetivoProduto.png)
+![Objetivos do produto](../assets/LeanInception/ObjetivoProduto.png)
 
 #### Resultado:
 
-![Resultado Objetivos do Produto](assets/LeanInception/ObjetivoProduto1.png)
+![Resultado Objetivos do Produto](../assets/LeanInception/ObjetivoProduto1.png)
 
 ### Personas:
 
-![Personas](assets/LeanInception/Personas.png)
+![Personas](../assets/LeanInception/Personas.png)
 
 #### Resultado:
 
-![Persona 1](assets/LeanInception/Personas1.png)
+![Persona 1](../assets/LeanInception/Personas1.png)
 
-![Persona 2](assets/LeanInception/Personas2.png)
+![Persona 2](../assets/LeanInception/Personas2.png)
 
-![Persona 3](assets/LeanInception/Personas3.png)
+![Persona 3](../assets/LeanInception/Personas3.png)
 
-![Persona 4](assets/LeanInception/Personas4.png)
+![Persona 4](../assets/LeanInception/Personas4.png)
 
 
 ## Bibliografia
