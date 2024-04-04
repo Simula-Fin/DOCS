@@ -1,22 +1,19 @@
 ## Sobre
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam malesuada in ante quis porttitor. Donec eu cursus lectus. Ut bibendum dui eu metus interdum, vel pellentesque orci viverra. Fusce faucibus, justo id condimentum vulputate, ex nunc sagittis sem, ut facilisis tellus orci a nulla. Cras maximus accumsan placerat. Sed hendrerit orci vitae orci posuere consectetur. Aliquam vitae condimentum leo. Proin id gravida nunc, id placerat urna. Nam nec quam sagittis arcu laoreet accumsan.
+Repositório de documentação do projeto Fintech. Este espaço concentra todos os documentos produzidos ao longo do processo de desenvolvimento do projeto, desde documentos técnicos até atas de reuniões semanais.
 
-Aplicação disponível em: 
+[GitLab Pages](https://fintech-doc-fga-eps-rmc-fintech-7c468b31f1296a85e3d478ec3c6978a.gitlab.io/)
 
-
-## Contribuir
-Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuição](https://) do repositório e seguir nosso [Código de Conduta]().
 
 ## Ambientes
 
-- [Documentação](https://gitlab.com/fga-eps-rmc/fintech/fintech_doc)
+- 
 
 ## Integrantes
 
-### 2023-1
+### 2024-1
 
-| Matricula | Nome | Gitlab | Papel | Email |
+| Nome | Matricula | Papel | Gitlab | Email |
 |-----------|------|--------|--------|------|
 | Ailton Aires Amado | 180011600 | Dev | ailtonaires |  |
 | Cibele Freitas Goudinho | 180099353 | Dev | CibeleG |  |
@@ -27,7 +24,7 @@ Para contribuir com esse projeto é importante seguir nosso [Guia de Contribuiç
 | João Vitor Ferreira Alves | 160127912 | Tester | vitorAlves7 |  |
 | Julia Farias Sousa | 180103792 | Designer | julisous |  |
 | Kayro César Silva Machado | 170107426 | Dev | kayrocesar |  |
-| Kevin Luis Apolinario Batista | 180042386 | Dev | kevinluis |  |
+| Kevin Luis Apolinario Batista | 180042386 | Dev | kevinluis | k.luis360@gmail.com |
 | Lude Yuri de Castro Ribeiro | 150137770 | Tech Lead | luderibeiro |  |
 | Mateus Moreira Lima | 180024868 | Scrum Master | mateus_lm |  |
 | Paulo Gonçalves Lima |  | Dev |  |  |
