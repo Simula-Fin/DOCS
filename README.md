@@ -16,7 +16,7 @@ Repositório de documentação do projeto Fintech. Este espaço concentra todos 
 | Nome | Matricula | Papel | Gitlab | Email |
 |-----------|------|--------|--------|------|
 | Ailton Aires Amado | 180011600 | Dev | ailtonaires |  |
-| Cibele Freitas Goudinho | 180099353 | Dev | CibeleG |  |
+| Cibele Freitas Goudinho | 180099353 | Dev | CibeleG | cibelegoudinho13@gmail.com |
 | Eurico Menezes de Abreu Neto | 200017519 | Dev  | EuricoAbreu |  |
 | Guilherme Daniel Fernandes da Silva | 180018019 | Product Owner | guilhermedfs14 |  |
 | Joao Henrique Marques Calzavara | 200067923 | Dev | joao-henrique10 | jhcalzavara@hotmail.com |
