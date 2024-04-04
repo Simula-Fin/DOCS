@@ -23,7 +23,7 @@ Repositório de documentação do projeto Fintech. Este espaço concentra todos 
 | João Vitor de Souza Durso | 180123459 | Dev | jvsdurso |  |
 | João Vitor Ferreira Alves | 160127912 | Tester | vitorAlves7 |  |
 | Julia Farias Sousa | 180103792 | Designer | julisous |  |
-| Kayro César Silva Machado | 170107426 | Dev | kayrocesar |  |
+| Kayro César Silva Machado | 170107426 | Dev | kayrocesar | kayro.cesar.kc@gmail.com |
 | Kevin Luis Apolinario Batista | 180042386 | Dev | kevinluis | k.luis360@gmail.com |
 | Lude Yuri de Castro Ribeiro | 150137770 | Tech Lead | luderibeiro |  |
 | Mateus Moreira Lima | 180024868 | Scrum Master | mateus_lm |  |
