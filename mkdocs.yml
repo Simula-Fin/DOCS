@@ -40,7 +40,7 @@ nav:
     - Gestão de Projeto:
         - Modelo de gestão: projectManagment/index.md
     - Lean Inception:
-        - Dinamicas: lean/dynamics.md
+        - Dinâmicas: lean/dynamics.md
         - Lean: lean/index.md
     - Arquitetura:
         - Documento de arquitetura: architecture/index.md
