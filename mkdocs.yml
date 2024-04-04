@@ -35,7 +35,7 @@ nav:
         - Plano de riscos: plans/risk_plan.md
     - Definições do Projeto:
         - Metodologias: projectDescription/index.md
-        - Plano de qualidade: Planos/plano_de_qualidade.md
+        - Plano de qualidade: plans/quality_plan.md
         - Plano de comunicacao: plans/communication_plan.md
     - Gestão de Projeto:
         - Modelo de gestão: projectManagment/index.md
