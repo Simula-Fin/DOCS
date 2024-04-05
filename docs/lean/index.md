@@ -29,7 +29,6 @@
 
 #### Resultado:
 
-
 ![Resultado Visão do Produto](../assets/LeanInception/VisaodoProduto1.png)
 
 ### É Não É, Faz Não faz
@@ -41,10 +40,11 @@
 3. Solicite que cada participante descreva o produto, escrevendo as características em post-its e colocando-os nas áreas devidas.
 4. Leia e agrupe as notas afins.
 
+![Resultado É Não É](../assets/LeanInception/ENaoE.png)
+
 #### Resultado:
 
 ![Resultado É Não É](../assets/LeanInception/ENaoE1.png)
-![Resultado É Não É](../assets/LeanInception/ENaoE2.png)
 
 ### Objetivos do produto:
 
@@ -111,7 +111,8 @@
 ### Brainstorming de funcionalidades:
   Uma funcionalidade representa uma ação ou interação de um usuário com o produto, por exemplo: imprimir nota fiscal, consultar extrato detalhado e convidar amigos do Facebook. A descrição de uma funcionalidade deve ser o mais simples possível, visando atender um objetivo de negócio, uma necessidade da persona, e/ou contemplando um passo da jornada.
 
-  Para descrever o brainstorming:
+  Para realizar o brainstorming:
+
   1. Peça que alguém leia, vagarosamente, o passo a passo de uma jornada de usuário.
   2. Durante a leitura, as pessoas compartilham ideias de funcionalidades.
   3. Quando identificada uma funcionalidade, descreva-a e coloque-a no quadro. Repita os passos anteriores para todas as jornadas.
