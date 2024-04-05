@@ -19,11 +19,7 @@
 
  &emsp;&emsp; No Lean Inception a visão do produto é essencial para definir o valor do negócio e orientar o desenvolvimento inicial. Ela determina quais características do produto serão priorizadas e a estratégia de posicionamento. A visão deve refletir uma mensagem clara e convincente para os clientes, ajudando a traçar o caminho inicial entre a ideia e o lançamento do produto. Esta atividade é colaborativa e ajuda a estabelecer a essência do valor do negócio.
 
-<div align="center">
-
 ![Exemplo de Visão do Produto](../assets/LeanInception/VisaodoProduto.png)
-
-</div>
 
 &emsp;&emsp; A partir desse template é importante seguir um passo a passo para cumprir a atividade:
 
@@ -34,7 +30,7 @@
 #### Resultado:
 
 
-![Resultado Visão do Produto](../assets/LeanInception/VisaodoProduto1.png){: .center}
+![Resultado Visão do Produto](../assets/LeanInception/VisaodoProduto1.png)
 
 ### É Não É, Faz Não faz
 
@@ -47,12 +43,8 @@
 
 #### Resultado:
 
-<div align="center">
-
 ![Resultado É Não É](../assets/LeanInception/ENaoE1.png)
 ![Resultado É Não É](../assets/LeanInception/ENaoE2.png)
-
-</div>
 
 ### Objetivos do produto:
 
@@ -66,11 +58,7 @@
 
 #### Resultado:
 
-<div align="center">
-
 ![Resultado Objetivos do Produto](../assets/LeanInception/ObjetivoProduto1.png)
-
-</div>
 
 ### Personas:
 
@@ -85,8 +73,6 @@
 
 #### Resultado:
 
-<div align="center">
-
 ![Persona 1](../assets/LeanInception/Personas1.png)
 
 ![Persona 2](../assets/LeanInception/Personas2.png)
@@ -94,8 +80,6 @@
 ![Persona 3](../assets/LeanInception/Personas3.png)
 
 ![Persona 4](../assets/LeanInception/Personas4.png)
-
-</div>
 
 ### Jornadas do Usuário:
   A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns destes passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
@@ -106,15 +90,9 @@
   2. Cada grupo apresenta a sua jornada para toda a equipe.
   3. Opcionalmente, faça mais rodadas para descrever outras jornadas.
 
-<div align="center">
-
 ![Exemplo de Jornada do Usuário](../assets/LeanInception/jornadaDoUsuario.png)
 
-</div>
-
 #### Resultados:
-
-<div align="center">
 
 ![Jornada do Usuário 1](../assets/LeanInception/Jornada1.png)
 
@@ -130,8 +108,6 @@
 
 ![Jornada do Usuário 4](../assets/LeanInception/Jornada4.png)
 
-</div>
-
 ### Brainstorming de funcionalidades:
   Uma funcionalidade representa uma ação ou interação de um usuário com o produto, por exemplo: imprimir nota fiscal, consultar extrato detalhado e convidar amigos do Facebook. A descrição de uma funcionalidade deve ser o mais simples possível, visando atender um objetivo de negócio, uma necessidade da persona, e/ou contemplando um passo da jornada.
 
@@ -140,19 +116,11 @@
   2. Durante a leitura, as pessoas compartilham ideias de funcionalidades.
   3. Quando identificada uma funcionalidade, descreva-a e coloque-a no quadro. Repita os passos anteriores para todas as jornadas.
 
-<div align="center">
-
 ![Exemplo de Brainstorming de funcionalidades](../assets/LeanInception/Brainstorming.png)
-
-</div>
 
 #### Resultados:
 
-<div align="center">
-
 ![Brainstorming de funcionalidades](../assets/LeanInception/Brainstorming1.png)
-
-</div>
 
 ### Revisão técnica de negocios e de UX:
 Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX para cada funcionalidade. A partir desta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
@@ -161,21 +129,13 @@ Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao 
 2. Defina a cor com o nível de confiança e faça as marcações (em uma escala de 1 a 3) de valor de negócio, esforço e valor de UX -- $, E e ♥.
 3. Confirme que todos estão de acordo; escolha a próxima pessoa e retorne ao passo 1.
 
-<div align="center">
-
 ![Exemplo de Revisão Técnica](../assets/LeanInception/RevTecnica.png)
 
 ![Exemplo de Revisão Técnica](../assets/LeanInception/RevTecnica1.png)
 
-</div>
-
 #### Resultados:
 
-<div align="center">
-
 ![Revisão Técnica](../assets/LeanInception/RevTecnica2.png)
-
-</div>
 
 ### Sequenciador:
   O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental do produto.
@@ -184,19 +144,11 @@ Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao 
   2. Busque mais cartões, encaixando-os no sequenciador. Respeite as regras.
   3. Identifique o MVP e os incrementos do produto.
 
-<div align="center">
-
 ![Exemplo de Sequenciador](../assets/LeanInception/Sequenciador.png)
-
-</div>
 
 #### Resultados:
 
-<div align="center">
-
 ![Sequenciador](../assets/LeanInception/Sequenciador1.png)
-
-</div>
 
 ### Canvas MVP
   O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizada para o negócio (produto mínimo) e que possa ser efetivamente utilizado e validado pelo usuário final (produto viável).
@@ -205,19 +157,11 @@ Esta revisão tem o objetivo de discutir como a equipe se sente em relação ao 
   2. Peça para cada grupo apresentar o seu Canvas MVP.
   3. Peça para a equipe consolidar os sete blocos do Canvas MVP, utilizando e alterando as anotações anteriores, conforme necessário.
 
-<div align="center">
-
 ![Exemplo de Canvas MVP](../assets/LeanInception/CanvasMVP.png)
-
-</div>
 
 #### Resultados:
 
-<div align="center">
-
 ![Resultado final Canvas MVP](../assets/LeanInception/CanvasMVP1.png)
-
-</div>
 
 ## Bibliografia
 
