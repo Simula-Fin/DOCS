@@ -15,6 +15,7 @@
 | 18/0078640 | yuri Alves | yuriAlves5 | Facilitador do Lean Incepetion, auxilio no controle de fluxo do Lean | Manter as ideias do Lean alinhadas e sem duplicidade durante a construção | Avaliar cada etapa do Lean corrigindo erros e mantendo o fluxo coerente |
 | 18/0018019 | Guilherme Daniel Fernandes da Silva | guilhermedfs14 | Auxílio na desenvolvimento do Canvas MVP e Benchmarking de fintechs atuantes no mercado, além de organizar as reuniões e cerimônias realizadas pela equipe | Manter o foco da equipe nas atividades a serem desenvolvidas | Chamar atenção para recuperar o foco da equipe nas atividades |
 | 17/0122549 | Paulo Gonçalves | PauloGoncalvesLima         | Criação CI para Gitlab Pages e Ajustes em links quebrados | Ajustar o CI/CD para o Pages                                                 | Procurar um tutorial de deploy para o gitlab pages         |
+| 15/0137770 | Lude Ribeiro | luderibeiro | Ajustes e contribuição para a ata da primeira reunião. | Encontrar tempo na semana. | Fazer minhas atividades no pouco tempo que consegui. |
 
 ### Intercorrências
 
@@ -36,4 +37,5 @@
 | 05/04/2024 | 1.7    | Adicionando report das minhas atividades        | Victor Rayan            |
 | 05/04/2024 | 1.8    | Adicionando report das minhas atividades        | Ailton Aires            |
 | 05/04/2024 | 1.9    | Adicionando report das minhas atividades        | Yuri Alves              |
-| 05/04/2024 | 1.10   | Adicionando report das minhas atividades       | Guilherme Daniel Fernandes da Silva |
+| 05/04/2024 | 1.10   | Adicionando report das minhas atividades        | Guilherme Daniel Fernandes da Silva |
+| 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Lude Ribeiro |
