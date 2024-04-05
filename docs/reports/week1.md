@@ -9,6 +9,7 @@
 | 18/0123459 | João Durso      | jvsdurso        | Documentação dos artefatos no Gitlab Pages                                                                                                                         | Definir um modelo de organização para o documento                            | Perguntei ao professor como seria a organização ideal na visão dele               |
 | 20/0017519 | Eurico Neto     | EuricoAbreu     | Participação ativa em todas as reuniões com a finalidade de gerar o Canvas MVP, revisão de MR relacionado ao GitPages, ajuda na organização geral do projeto       | Forma de comunicar em grupos menores e registrar o progresso de cada reunião | Resolvido com a criação de um servidor no Discord, com canais e chats específicos |
 | 18/0103792 | Júlia Farias  | julisous       | Facilitação do Lean Inception e criação do mural de dinâmicas | Fazer com que todos participem do Lean e que fosse gerando um canvas coerente para todos |Montagem das agendas, ministração das dinâmica, clusterização das ideias do grupo e delegação de atividades do Lean.                                                                                                                               | Conversar os outros integrantes do grupo e olhar a documentação do GitLab         |
+| 19/0044390 | Victor Rayan   | victor-rayan | Participação ativa nas reuniões de criação de todas etapas do Lean Inception, criação do template e da Ata de reunião do dia 04/04.                             | -                                                                            | -                                                                                 |
 
 ### Intercorrências
 
@@ -27,3 +28,4 @@
 | 05/04/2024 | 1.4    | Adicionando report das minhas atividades        | João Durso              |
 | 05/04/2024 | 1.5    | Adicionando report das minhas atividades        | Eurico Neto             |
 | 05/04/2024 | 1.6    | Adicionando report das minhas atividades        | Júlia Farias            |
+| 05/04/2024 | 1.7    | Adicionando report das minhas atividades        | Victor Rayan            |
