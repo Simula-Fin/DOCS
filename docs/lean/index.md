@@ -40,11 +40,11 @@
 3. Solicite que cada participante descreva o produto, escrevendo as características em post-its e colocando-os nas áreas devidas.
 4. Leia e agrupe as notas afins.
 
-![Resultado É Não É](../assets/LeanInception/ENaoE.png)
+![Exemplo de É Não É, Faz Não Faz](../assets/LeanInception/ENaoE.png)
 
 #### Resultado:
 
-![Resultado É Não É](../assets/LeanInception/ENaoE1.png)
+![Resultado É Não É, Faz Não Faz](../assets/LeanInception/ENaoE1.png)
 
 ### Objetivos do produto:
 
