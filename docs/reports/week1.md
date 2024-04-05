@@ -11,6 +11,7 @@
 | 18/0103792 | Júlia Farias  | julisous       | Facilitação do Lean Inception e criação do mural de dinâmicas | Fazer com que todos participem do Lean e que fosse gerando um canvas coerente para todos |Montagem das agendas, ministração das dinâmica, clusterização das ideias do grupo e delegação de atividades do Lean.                                                                                                                               | Conversar os outros integrantes do grupo e olhar a documentação do GitLab         |
 | 17/0107426 | Kayro César   | kayrocesar       |   Participação ativa em todas as reuniões do canvas, participação nas atividades do quadro do Lean, elaboração de 2 personas, elaboração        da ata de reunião 1                                                                                                                         | -          |-
 | 19/0044390 | Victor Rayan   | victor-rayan | Participação ativa nas reuniões de criação de todas etapas do Lean Inception, criação do template e da Ata de reunião do dia 04/04.                             | -                                                                            | -                                                                                 |
+| 18/0011600 | Ailton Aires Amado | ailtonaires | Auxílio na desenvolvimento do Canvas MVP e Benchmarking de fintechs atuantes no mercado | Encontrar grandes diferenciais nas fintechs | Pegar fintechs mais atuais no mercado |
 
 ### Intercorrências
 
@@ -30,3 +31,4 @@
 | 05/04/2024 | 1.5    | Adicionando report das minhas atividades        | Eurico Neto             |
 | 05/04/2024 | 1.6    | Adicionando report das minhas atividades        | Júlia Farias            |
 | 05/04/2024 | 1.7    | Adicionando report das minhas atividades        | Victor Rayan            |
+| 05/04/2024 | 1.8    | Adicionando report das minhas atividades        | Ailton Aires            |
