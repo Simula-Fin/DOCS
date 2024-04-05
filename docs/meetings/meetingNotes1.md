@@ -39,12 +39,16 @@
 
 ## **Discussão**
 
-&emsp;&emsp; Foi realizada uma reunião de quick off que consistiu em levantar ideias para o projeto. Além disso, foram realizadas atividades em etapas de forma colaborativa utilizando o Lean Inception visando a construção de um MVP.
+&emsp;&emsp; Foi realizada uma reunião de quick off que consistiu em levantar ideias para concepção do projeto. Além disso, foram realizadas atividades em etapas de forma colaborativa utilizando o Lean Inception visando a construção de um MVP, sendo elas a visão do produto, é-e-não-é e faz-e-não-faz, brainstorm de funcionalidades, objetivos do negócio.
 
 ## **Ações futuras**
+
+Foi proposto para próximas ações a criação das personas, fazer o brainstorm de funcionalidades,revisão, sequenciador, o canvas MVP.
 
 ## Histórico de versão
 
 | Data       | Versão | Descrição            | Autor(es)   |
 | ---------- | ------ | -------------------- | ----------- |
 | 04/04/2024 | 1.0    | Criação do Documento | Kayro César |
+| ---------- | ------ | -------------------- | ----------- |
+| 04/04/2024 | 1.1    | Adição de ações futuras e incremento de discussão | João Vitor Alves e Lude Ribeiro |
