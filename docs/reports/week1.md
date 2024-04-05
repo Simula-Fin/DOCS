@@ -14,6 +14,7 @@
 | 18/0011600 | Ailton Aires Amado | ailtonaires | Auxílio na desenvolvimento do Canvas MVP e Benchmarking de fintechs atuantes no mercado | Encontrar grandes diferenciais nas fintechs | Pegar fintechs mais atuais no mercado |
 | 18/0078640 | yuri Alves | yuriAlves5 | Facilitador do Lean Incepetion, auxilio no controle de fluxo do Lean | Manter as ideias do Lean alinhadas e sem duplicidade durante a construção | Avaliar cada etapa do Lean corrigindo erros e mantendo o fluxo coerente |
 | 18/0018019 | Guilherme Daniel Fernandes da Silva | guilhermedfs14 | Auxílio na desenvolvimento do Canvas MVP e Benchmarking de fintechs atuantes no mercado, além de organizar as reuniões e cerimônias realizadas pela equipe | Manter o foco da equipe nas atividades a serem desenvolvidas | Chamar atenção para recuperar o foco da equipe nas atividades |
+| 17/0122549 | Paulo Gonçalves | PauloGoncalvesLima         | Criação CI para Gitlab Pages e Ajustes em links quebrados | Ajustar o CI/CD para o Pages                                                 | Procurar um tutorial de deploy para o gitlab pages         |
 
 ### Intercorrências
 
