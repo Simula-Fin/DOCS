@@ -17,6 +17,7 @@
 | 17/0122549 | Paulo Gonçalves | PauloGoncalvesLima         | Criação CI para Gitlab Pages e Ajustes em links quebrados | Ajustar o CI/CD para o Pages                                                 | Procurar um tutorial de deploy para o gitlab pages         |
 | 15/0137770 | Lude Ribeiro | luderibeiro | Ajustes e contribuição para a ata da primeira reunião. | Encontrar tempo na semana. | Fazer minhas atividades no pouco tempo que consegui. |
 | 19/0047968 | Paulo Abi Acl      | PauloAbiAcl       | Participação nas reuniões de criação do Lean Inception e Documentação dos artefatos no Gitlab Pages. | Dificuldade em participar de todas as reuniões.  | Após a marcação das reuniões procurar me organizar melhor para conseguir participar.
+| 16/0127912 | João Vitor Alves | vitorAlves7 | Ajustes e melhorias para a ata da primeira reunião, elaboração de duas personas e participação das reuniões. | Conciliar a o tempo do trabalho, e demais disciplinas da faculdade. | Planejar e dividir meu tempo. |
 
 ### Intercorrências
 
@@ -41,3 +42,4 @@
 | 05/04/2024 | 1.10   | Adicionando report das minhas atividades        | Guilherme Daniel Fernandes da Silva |
 | 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Lude Ribeiro |
 | 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Paulo Abi Acl|
+| 05/04/2024 | 1.12   | Adicionando report das minhas atividades        | João Vitor Alves|
