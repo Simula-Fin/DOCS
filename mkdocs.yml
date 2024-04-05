@@ -54,10 +54,5 @@ nav:
         - Documento de arquitetura: architecture/index.md
     - Relatório de Encerramento do Projeto: reports/final_report.md
 
-markdown_extensions:
-    - attr_list
-    - md_in_html
-
-
 # extra_css:
 #   - stylesheets/extra.css
