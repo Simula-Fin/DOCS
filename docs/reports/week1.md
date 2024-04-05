@@ -16,7 +16,7 @@
 | 18/0018019 | Guilherme Daniel Fernandes da Silva | guilhermedfs14 | Auxílio na desenvolvimento do Canvas MVP e Benchmarking de fintechs atuantes no mercado, além de organizar as reuniões e cerimônias realizadas pela equipe | Manter o foco da equipe nas atividades a serem desenvolvidas | Chamar atenção para recuperar o foco da equipe nas atividades |
 | 17/0122549 | Paulo Gonçalves | PauloGoncalvesLima         | Criação CI para Gitlab Pages e Ajustes em links quebrados | Ajustar o CI/CD para o Pages                                                 | Procurar um tutorial de deploy para o gitlab pages         |
 | 15/0137770 | Lude Ribeiro | luderibeiro | Ajustes e contribuição para a ata da primeira reunião. | Encontrar tempo na semana. | Fazer minhas atividades no pouco tempo que consegui. |
-| 19/0047968 | Paulo Abi Acl      | PauloAbiAcl       | Participação nas reuniões de criação do Lean Inception e Documentação dos artefatos no Gitlab Pages | -                          | -
+| 19/0047968 | Paulo Abi Acl      | PauloAbiAcl       | Participação nas reuniões de criação do Lean Inception e Documentação dos artefatos no Gitlab Pages. | Dificuldade em participar de todas as reuniões.  | Após a marcação das reuniões procurar me organizar melhor para conseguir participar.
 
 ### Intercorrências
 
@@ -40,3 +40,4 @@
 | 05/04/2024 | 1.9    | Adicionando report das minhas atividades        | Yuri Alves              |
 | 05/04/2024 | 1.10   | Adicionando report das minhas atividades        | Guilherme Daniel Fernandes da Silva |
 | 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Lude Ribeiro |
+| 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Paulo Abi Acl|
