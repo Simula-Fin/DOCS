@@ -50,5 +50,4 @@ Foi proposto para próximas ações a criação das personas, fazer o brainstorm
 | Data       | Versão | Descrição            | Autor(es)   |
 | ---------- | ------ | -------------------- | ----------- |
 | 04/04/2024 | 1.0    | Criação do Documento | Kayro César |
-| ---------- | ------ | -------------------- | ----------- |
 | 04/04/2024 | 1.1    | Adição de ações futuras e incremento de discussão | João Vitor Alves e Lude Ribeiro |
