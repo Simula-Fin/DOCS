@@ -19,11 +19,9 @@
 
  &emsp;&emsp; No Lean Inception a visão do produto é essencial para definir o valor do negócio e orientar o desenvolvimento inicial. Ela determina quais características do produto serão priorizadas e a estratégia de posicionamento. A visão deve refletir uma mensagem clara e convincente para os clientes, ajudando a traçar o caminho inicial entre a ideia e o lançamento do produto. Esta atividade é colaborativa e ajuda a estabelecer a essência do valor do negócio.
 
-<p align="center">
-
-![Exemplo de Visão do Produto](../assets/LeanInception/VisaodoProduto.png)
-
-</p>
+<div align="center">
+  <img src="../assets/LeanInception/VisaodoProduto.png">
+</div>
 
 &emsp;&emsp; A partir desse template é importante seguir um passo a passo para cumprir a atividade:
 
