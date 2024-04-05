@@ -44,7 +44,7 @@
 
 #### Resultado:
 
-![Resultado É Não É, Faz Não Faz](../assets/LeanInception/ENaoE1.png)
+![Resultado É Não É, Faz Não Faz](../assets/LeanInception/ENaoE.png)
 
 ### Objetivos do produto:
 
