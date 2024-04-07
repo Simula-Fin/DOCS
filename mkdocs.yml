@@ -32,6 +32,10 @@ nav:
         - Protótipo: prototype.md
     - Comunicação:
         - Rituais da Equipe:  rituals.md
+        - ATAs de Reuniões:
+            - Reunião 1: meetings/meetingNotes1.md
+            - Reunião 2: meetings/meetingNotes2.md
+            - Reunião 3: meetings/meetingNotes3.md
         - Relatório de Eventos: 
             - Semana 1: reports/week1.md
     - Planejamento:
