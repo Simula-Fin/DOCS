@@ -39,12 +39,18 @@
 
 ## **Discussão**
 
-&emsp;&emsp; A reunião realizada no dia 04/04 teve como objetivo a criação do Canvas MVP e com isso a finalização do Lean Inception. Para elaboração do cavas grupo o se dividiu em dois e foi desenvolvido 2 Canvas MVPS, após isso houve uma discussão para o desenvolvimento do Canvas MVP definitivo. Além disso foram apresentadas as atividades feitas de forma assíncrona pelos membros da equipe.
+&emsp;&emsp;A reunião realizada no dia 04/04 teve como objetivo a criação do Canvas MVP e com isso a finalização do Lean Inception. Para elaboração do canvas o grupo se dividiu em dois e realizou 2 Canvas MVP, após isso houve uma discussão para o desenvolvimento do Canvas MVP definitivo. Além disso, foram apresentadas as atividades feitas ao longo da semana, de forma assíncrona, pelos membros da equipe.
 
 ## **Ações futuras**
+&emsp;&emsp;As seguintes atividades estão previstas para ocorrer nos dias posteriores à reunião do dia 04/04/2024:
+
+- Definição das histórias de usuário
+- Definição da stack do projeto
+- Definição de dia e horário para reunião de planning 
 
 ## Histórico de versão
 
 | Data       | Versão | Descrição            | Autor(es)   |
 | ---------- | ------ | -------------------- | ----------- |
 | 08/04/2024 | 1.0 | Criação documento e desenvolvimento dos tópicos | João Vitor Alves |
+| 08/04/2024 | 1.1 | Revisão do documento e desenvolvimento do tópico Ações Futuras| Kayro César |
