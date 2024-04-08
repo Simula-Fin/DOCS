@@ -1,6 +1,6 @@
 # Reunião 3
 
-- Data: 04/04
+- Data: 04/04/2024
 - Horário: 20 Hrs
 - Local: Microsoft Teams
 
