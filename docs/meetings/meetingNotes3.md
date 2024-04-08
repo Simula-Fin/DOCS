@@ -1,7 +1,7 @@
-# Reunião 1
+# Reunião 3
 
-- Data: 
-- Horário: 
+- Data: 04/04
+- Horário: 20 Hrs
 - Local: Microsoft Teams
 
 ## **Integrantes**
@@ -28,17 +28,26 @@
 
 ## **Duração**
 
-- Início: 
-- Término: 
-- Tempo total em horas: 
+- Início: 20:00
+- Término: 21:30
+- Tempo total em horas: 1:30 
 
 ## **Objetivos**
 
+- Criação do Canvas MVP
+- Apresentação das atividades feitas de forma assíncrona
+
 ## **Discussão**
+
+&emsp;&emsp; A reunião realizada no dia 04/04 teve como objetivo a criação do Canvas MVP e com isso a finalização do Lean Inception. Para elaboração do cavas grupo o se dividiu em dois e foi desenvolvido 2 Canvas MVPS, após isso houve uma discussão para o desenvolvimento do Canvas MVP definitivo. Além disso foram apresentadas as atividades feitas de forma assíncrona pelos membros da equipe.
 
 ## **Ações futuras**
 
 ## Histórico de versão
 
 | Data       | Versão | Descrição            | Autor(es)   |
+| ---------- | ------ | -------------------- | ----------- |
+| 08/04/2024 | 1.0    | Criação documento e desenvolvimento dos tópicos | João Vitor Alves |
+
+
 | ---------- | ------ | -------------------- | ----------- |
