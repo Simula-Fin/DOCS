@@ -47,7 +47,4 @@
 
 | Data       | Versão | Descrição            | Autor(es)   |
 | ---------- | ------ | -------------------- | ----------- |
-| 08/04/2024 | 1.0    | Criação documento e desenvolvimento dos tópicos | João Vitor Alves |
-
-
-| ---------- | ------ | -------------------- | ----------- |
+| 08/04/2024 | 1.0 | Criação documento e desenvolvimento dos tópicos | João Vitor Alves |
