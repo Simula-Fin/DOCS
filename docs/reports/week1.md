@@ -18,6 +18,7 @@
 | 15/0137770 | Lude Ribeiro | luderibeiro | Ajustes e contribuição para a ata da primeira reunião. | Encontrar tempo na semana. | Fazer minhas atividades no pouco tempo que consegui. |
 | 19/0047968 | Paulo Abi Acl      | PauloAbiAcl       | Participação nas reuniões de criação do Lean Inception e Documentação dos artefatos no Gitlab Pages. | Dificuldade em participar de todas as reuniões.  | Após a marcação das reuniões procurar me organizar melhor para conseguir participar.
 | 16/0127912 | João Vitor Alves | vitorAlves7 | Ajustes e melhorias para a ata da primeira reunião, elaboração de duas personas e participação das reuniões. | Conciliar a o tempo do trabalho, e demais disciplinas da faculdade. | Planejar e dividir meu tempo. |
+| 18/0024868 | Mateus Moreira Lima | mateus_lm | Participação nas reuniões de Lean Incepetion, ajuda na criação das atas de reunião, Facilitador na criação do MVP. | - | - |
 
 ### Intercorrências
 
@@ -43,3 +44,4 @@
 | 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Lude Ribeiro |
 | 05/04/2024 | 1.11   | Adicionando report das minhas atividades        | Paulo Abi Acl|
 | 05/04/2024 | 1.12   | Adicionando report das minhas atividades        | João Vitor Alves|
+| 08/04/2024 | 1.13   | Adicionando report das minhas atividades        | Mateus Moreira Lima|
