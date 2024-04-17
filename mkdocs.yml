@@ -4,12 +4,11 @@ theme:
     palette:
         # primary: custom
         scheme: default
-        primary: yellow
-        accent: orange
+        primary: "#fff"
+        accent: "#0B4D9B"
     font:
         text: Roboto
     language: pt-BR
-    repo_url: https://gitlab.com/fga-eps-rmc/fintech/fintech_doc
     repo_name: Fintech Docs
     icon:
         repo: fontawesome/brands/gitlab
