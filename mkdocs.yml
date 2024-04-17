@@ -1,4 +1,8 @@
 site_name: Fintech
+repo_name: "DOCS"
+repo_url: "https://github.com/Simula-Fin/DOCS"
+docs_dir: docs
+
 theme:
     name: material
     palette:
@@ -9,8 +13,6 @@ theme:
     font:
         text: Roboto
     language: pt-BR
-    repo_url: https://gitlab.com/fga-eps-rmc/fintech/fintech_doc
-    repo_name: Fintech Docs
     icon:
         repo: fontawesome/brands/gitlab
     # logo: assets/logo.png
