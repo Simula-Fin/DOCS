@@ -1,21 +1,30 @@
-## Sobre
+ ## Integrantes
+  - | **Matrícula** | **Nome**                        | **Foto**| **Email**|
+    | ------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------  | ------------------------|
+    | 200067923     | Eurico Menezes de Abreu neto | -   |200017519@aluno.unb.br |
+    | 200067923     | João Henrique Marques Calzavara | <img src="https://avatars.githubusercontent.com/u/71076129?v=4" width="120px;" alt="Foto João Henrique"/>   | jhcalzavara@hotmail.com |
+    | 200067923     | Mateus Moreira Lima | -   | 180024868@aluno.unb.br |
+    | 190047968     | Paulo Vitor         | - | 190047968@aluno.unb.br|
+    | 190047968     | Victor Rayan Adriano Ferreira        | - | 190044390@aluno.unb.br |
 
-Repositório de documentação do projeto Fintech. Este espaço concentra todos os documentos produzidos ao longo do processo de desenvolvimento do projeto, desde documentos técnicos até atas de reuniões semanais.
+## Sobre o projeto:
 
+### Visão do produto:
+&emsp;&emsp;Para cliente de crédito, CUJO não possui uma aplicação customizada para saber quanto custará seu financiamento/empréstimo/consorcio, o FinancesSimulator, É UM produto bancário que simula o financiamento, empréstimo e consórcios de vários bancos ou algum aleatório pelo usuário, diferentemente dos aplicativos normais de bancos, o nosso produto POSSUI usabilidade fácil e um propósito diferenciado dos aplicativos de banco do cotidiano.
 
-## Ambientes
+### Funcionalidades a serem feitas:
+- CRUD de usuário;
+- Simulação de empréstimo;
+- Simulação de financiamento;
+- Simulação de consorcio;
+- (A adicionar algumas outras para incremento)
 
-- 
+### Critérios de aceitação:
+&emsp;&emsp; Os critérios de aceitação estão presentes na planilha do seguinte link: [planilha](https://docs.google.com/spreadsheets/d/1H5mb4iS73AmVXcUuIG2dxXFkMyd6289nWqKq0rLbWsw/edit?usp=sharing).
 
-## Integrantes (SUBGRUPO)
+&emsp;&emsp;Nessa planilha separamos os épicos, features e os critérios de aceitação de cada funcionalidade.
+## Histórico de versão
 
-### 2024-1
-
-| Nome | Matricula | Papel | Gitlab | Email |
-|-----------|------|--------|--------|------|
-| Eurico Menezes de Abreu Neto | 200017519 | Dev  | EuricoAbreu | 200017519@aluno.unb.br |
-| Joao Henrique Marques Calzavara | 200067923 | Dev | joao-henrique10 | jhcalzavara@hotmail.com |
-| Paulo Vitor Silva Abi Acl	 | 190047968 | Dev | pauloAbiACL | 190047968@aluno.unb.br |
-| Mateus Moreira Lima | 180024868 | Scrum Master | mateus_lm 180024868@aluno.unb.br |
-| Victor Rayan Adriano Ferreira | 190044390 | Tester | victor-rayan | 190044390@aluno.unb.br |
-
+| **Versão** | **Alteração** | **Responsável** | **Data** |
+| - | - | - | - |
+| 1.0 | Criaçao do arquivo | João Henrique | 16/04/2024 |
