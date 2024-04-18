@@ -1,5 +1,7 @@
 # Lean Inception
 
+<span style="color:red">As dinâmicas e CANVAS MVP foram feitos com todo o grupo FINTECH, como houve divisão no grupo, haverá algumas funcionalidades que não serão utilizadas. Mantendo no documento apenas para registro.</span>
+
 ## Introdução:
 &emsp;&emsp; Lean Inception é a combinação eficaz do Design thinking e do Lean StartUp para decidir o Produto Mínimo Viável (MVP). Sendo um workshop dividido em várias partes e atividades para auxiliar no entendimento e na construção do produto.
 
