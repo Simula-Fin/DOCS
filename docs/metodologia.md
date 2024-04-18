@@ -4,7 +4,7 @@ Este documento descreve a metodologia a ser utilizada no desenvolvimento do proj
 
 ## Abordagem Ágil
 
-Optamos por adotar uma abordagem ágil para o desenvolvimento deste projeto, visando uma entrega incremental e adaptativa. A agilidade nos permite responder rapidamente às mudanças nos requisitos e prioridades do projeto, garantindo maior satisfação do cliente.
+Optamos por adotar uma abordagem ágil para o desenvolvimento deste projeto, visando uma entrega incremental e adaptativa. A agilidade nos permite responder rapidamente às mudanças nos requisitos e prioridades do projeto, garantindo maior satisfação do cliente (imaginário).
 
 ## Práticas de Desenvolvimento
 
@@ -13,7 +13,7 @@ Optamos por adotar uma abordagem ágil para o desenvolvimento deste projeto, vis
 As reuniões serão realizadas de forma online, utilizando a plataforma Discord. Essas reuniões incluirão:
 
 - **Sprint Planning**: No início de cada sprint, realizaremos uma reunião de planejamento para definir os objetivos da sprint e identificar as atividades a serem realizadas.
-- **Sprint Review**: Ao final de cada sprint, faremos uma reunião de revisão para demonstrar o que foi desenvolvido e obter feedback dos stakeholders.
+- **Sprint Review**: Ao final de cada sprint, faremos uma reunião de revisão para demonstrar o que foi desenvolvido e obter feedback dos stakeholders (imaginários).
 
 ### Desenvolvimento em Subgrupos
 
