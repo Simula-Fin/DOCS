@@ -23,6 +23,7 @@
 | Criação do documento de controle de atividades                                                   | 16/04/2024            | João Henrique   | 20 minutos              |
 | Criação documento do cronograma em conjunto com o Eurico          | 17/04/2024            | João Henrique  | 30 minutos              |
 | Atualização do readme com correção de alguns erros                                                   | 18/04/2024            | João Henrique   | 20 minutos              |
+| Criação do documento do plano de custo do projeto                                       | 18/04/2024            | João Henrique   | 1 hora e 30 minutos             |
 
 <br>
 
