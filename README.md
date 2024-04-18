@@ -2,7 +2,7 @@
 
 - | **Matrícula** | **Nome**                        | **Foto**                                                                                                  | **Email**               |
   | ------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------- |
-  | 200017519     | Eurico Menezes de Abreu neto    | <img src="https://avatars.githubusercontent.com/u/64049043?v=4" width="120px;" alt="Foto Eurico"/>-       | 200017519@aluno.unb.br  |
+  | 200017519     | Eurico Menezes de Abreu neto    | <img src="https://avatars.githubusercontent.com/u/64049043?v=4" width="120px;" alt="Foto Eurico"/>        | 200017519@aluno.unb.br  |
   | 200067923     | João Henrique Marques Calzavara | <img src="https://avatars.githubusercontent.com/u/71076129?v=4" width="120px;" alt="Foto João Henrique"/> | jhcalzavara@hotmail.com |
   | 180024868     | Mateus Moreira Lima             | -                                                                                                         | 180024868@aluno.unb.br  |
   | 190047968     | Paulo Vitor                     | -                                                                                                         | 190047968@aluno.unb.br  |
