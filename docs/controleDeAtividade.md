@@ -19,8 +19,10 @@
 | **O que fez**                                                                                    | **Data da alteração** | **Responsável** | **Tempo para produção** |
 | ------------------------------------------------------------------------------------------------ | --------------------- | --------------- | ----------------------- |
 | Criação da planilha com os épicos, features, funcionalidades e critérios de aceitação do projeto | 15/04/2024            | João Henrique   | 1 hora                  |
-| Criação do documento do readme                                                                   | 16/04/2024            | João Henrique   | 40 minutos              |
+| Criação do documento do readme                                                                  | 16/04/2024            | João Henrique   | 40 minutos              |
 | Criação do documento de controle de atividades                                                   | 16/04/2024            | João Henrique   | 20 minutos              |
+| Criação documento do cronograma em conjunto com o Eurico          | 17/04/2024            | João Henrique  | 30 minutos              |
+| Atualização do readme com correção de alguns erros                                                   | 18/04/2024            | João Henrique   | 20 minutos              |
 
 <br>
 

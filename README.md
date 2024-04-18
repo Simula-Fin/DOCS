@@ -1,6 +1,6 @@
 ## Integrantes
 
-- | **Matrícula** | **Nome**                        | **Foto**                                                                                                  | **Email**               |
+ | **Matrícula** | **Nome**                        | **Foto**                                                                                                  | **Email**               |
   | ------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------- |
   | 200017519     | Eurico Menezes de Abreu neto    | <img src="https://avatars.githubusercontent.com/u/64049043?v=4" width="120px;" alt="Foto Eurico"/>        | 200017519@aluno.unb.br  |
   | 200067923     | João Henrique Marques Calzavara | <img src="https://avatars.githubusercontent.com/u/71076129?v=4" width="120px;" alt="Foto João Henrique"/> | jhcalzavara@hotmail.com |
@@ -16,6 +16,8 @@
 
 ### Funcionalidades a serem feitas:
 
+&emsp;&emsp;Abaixo as funcionalidades que iremos abordar nesse projeto:
+
 - CRUD de usuário;
 - Simulação de empréstimo;
 - Simulação de financiamento;
@@ -30,14 +32,18 @@
 
 ### Organização da Equipe
 
-- **Grupo 1**: Eurico Menezes de Abreu Neto, João Henrique Marques Calzavara
-- **Grupo 2**: Mateus Moreira Lima, Paulo Vitor, Victor Rayan Adriano Ferreira
+&emsp;&emsp;Para o decorrer do projeto decidimos dividir a equipe em dois subgrupos da seguinte forma:
+
+- **SubGrupo 1**: Eurico Menezes de Abreu Neto, João Henrique Marques Calzavara
+- **SubGrupo 2**: Mateus Moreira Lima, Paulo Vitor, Victor Rayan Adriano Ferreira
 
 ## Artefatos
 
+&emsp;&emsp;Abaixo os artefatos de documentação feitos sobre o projeto:
 - [Metodologia](docs/metodologia.md)
 - [Cronograma](docs/cronograma.md)
 - [Controle de Atividades](docs/controleDeAtividade.md)
+- [Planilha das funcionalidades](https://docs.google.com/spreadsheets/d/1H5mb4iS73AmVXcUuIG2dxXFkMyd6289nWqKq0rLbWsw/edit?usp=sharing)
 
 ## Histórico de versão
 
@@ -45,3 +51,4 @@
 | ---------- | ---------------------------------------------------------------------------- | --------------- | ---------- |
 | 1.0        | Criaçao do arquivo                                                           | João Henrique   | 16/04/2024 |
 | 1.1        | Atualização do README com informações sobre o projeto e histórico de versões | Eurico Neto     | 17/04/2024 |
+| 1.2        | Atualização do README com correções de alguns erros | João Henrique    | 18/04/2024 |
