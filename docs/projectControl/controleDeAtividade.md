@@ -1,5 +1,9 @@
 # Arquivo de controle de atividades dos integrantes do grupo
 
+## Introdução
+
+&emsp;&emsp; Documento destinado à catalogação do que os integrantes fizeram durante o semestre.
+
 ## Eurico Menezes
 
 <br>
@@ -24,6 +28,7 @@
 | Criação documento do cronograma em conjunto com o Eurico          | 17/04/2024            | João Henrique  | 30 minutos              |
 | Atualização do readme com correção de alguns erros                                                   | 18/04/2024            | João Henrique   | 20 minutos              |
 | Criação do documento do plano de custo do projeto                                       | 18/04/2024            | João Henrique   | 1 hora e 30 minutos             |
+| Adicionando mais documentos no pages                                      | 19/04/2024            | João Henrique   | 30 minutos             |
 
 <br>
 

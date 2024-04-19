@@ -42,6 +42,7 @@ nav:
           - Semana 1: reports/week1.md
   - Planejamento:
       - Planejamento: planning.md
+      - Controle de atividades: projectControl/ControleDeAtividade.md
       - Quadro de conhecimento: projectControl/knowledge_board.md
       - Quadro de disponibilidade: projectControl/schedule_board.md
       - Cronograma: projectControl/schedule.md
@@ -50,6 +51,7 @@ nav:
       - Plano de riscos: plans/risk_plan.md
   - Definições do Projeto:
       - Metodologias: projectDescription/index.md
+      - Funcionalidades: projectDescription/Funcionalidades.md
       - Plano de qualidade: plans/quality_plan.md
       - Plano de comunicacao: plans/communication_plan.md
   - Gestão de Projeto:
