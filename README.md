@@ -22,7 +22,6 @@
 - Simulação de empréstimo;
 - Simulação de financiamento;
 - Simulação de consorcio;
-- (A adicionar algumas outras para incremento)
 
 ### Critérios de aceitação:
 

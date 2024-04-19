@@ -44,6 +44,7 @@ nav:
       - Planejamento: planning.md
       - Quadro de conhecimento: projectControl/knowledge_board.md
       - Quadro de disponibilidade: projectControl/schedule_board.md
+      - Cronograma: projectControl/schedule.md
   - Planos:
       - Plano de custos: plans/costs_plan.md
       - Plano de riscos: plans/risk_plan.md
