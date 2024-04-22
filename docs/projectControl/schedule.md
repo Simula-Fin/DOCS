@@ -27,19 +27,42 @@ Durante cada sprint, que se estenderá por duas semanas, as atividades específi
 |-|-|-|-|
 |**SPRINT 5**|  17/06 | 17/06 | SubGrupo 1 | - |
 |**SPRINT 5**|  17/06 | 01/07 | SubGrupo 2 | - |
+|-|-|-|-|-|
+|**SPRINT 6**|  01/07 | 08/07 | Subgrupo 1 | - |
+|**SPRINT 6**|  01/07 | 08/07 | Subgrupo 2 | - |
 
-- Sprint 1:
-    alinhar objetivos e estratégias.
-    Protótipação utilizando o Figma.
-    Definição Stacks e configuração de ambiente
+- Sprint 1 - **Planejamento e Design** :
+    - Semana 1:
+        - Reunião de kick-off com a equipe para alinhar objetivos e estratégias.
 
+    - Semana 2:
+        - Design detalhado das funcionalidades utilizando o Figma.
+        - Estabelecimento de prazos e responsabilidades.
+        - Configuração do ambiente de analyctis (Sonar).
 
-    - Desenvolvimento Simulação de empréstimo;
-    - Desenvolvimento Simulação de financiamento;
-    - Desenvolvimento Simulação de consorcio;
+- Sprint 2,3 e 4 - **Desenvolvimento dos Microsserviços** :
+    - Semana  3/4:
+        - Desenvolvimento da lógica do microserviço de CRUD de usuário;
+        - Desenvolvimento da lógica do microserviço de simulação de empréstimo;
+        - Testes unitários e de integração;
 
-    Desenvolvimento da funcionalidade de ativação por aproximação em React Native.
-    Testes unitários e integreção com microserviços chatbot e marketing.
+    - Semana  5/6:
+        - Desenvolvimento da lógica do microserviço de simulação de financiamento;
+        - Desenvolvimento da lógica do microserviço de simulação de consórcio;
+        - Testes unitários e de integração;
+
+    - Semana  7/8:
+        - Integração com o microserviço de chatbot;
+        - Integração com o microserviço de marketing;
+        - Testes unitários e de integração;
+
+- Sprint 5 e 6 - **Integração e Testes da Plataforma**
+    - Semana 9/10:
+        - Testes finais de usabilidade e aceitação do usuário;
+    - Semana 11:
+        - Deploy da aplicação;
+        - Finalização da documentação; 
+        - Disponibilização do APP;
 
 ## Histórico de versões
 
