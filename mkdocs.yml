@@ -42,7 +42,7 @@ nav:
           - Semana 1: reports/week1.md
   - Planejamento:
       - Planejamento: planning.md
-      - Controle de atividades: projectControl/ControleDeAtividade.md
+      - Controle de atividades: projectControl/controleDeAtividade.md
       - Quadro de conhecimento: projectControl/knowledge_board.md
       - Quadro de disponibilidade: projectControl/schedule_board.md
       - Cronograma: projectControl/schedule.md
