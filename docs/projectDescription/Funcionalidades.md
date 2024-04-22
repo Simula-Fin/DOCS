@@ -6,6 +6,8 @@
 - Simulação de empréstimo;
 - Simulação de financiamento;
 - Simulação de consorcio;
+- Integração com o chatbot
+- Integração com marketing
 
 ## Critérios de aceitação:
 

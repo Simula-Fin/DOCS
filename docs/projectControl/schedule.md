@@ -1,23 +1,34 @@
 # Cronograma 
 
-O planejamento das atividades seguiu um cronograma com datas de ínico e fim detalhadas na tabela abaixo:
+Este cronograma de atividades foi elaborado considerando o término do semestre letivo 2024.1 em 15/07. Decidimos dividir o projeto em 5 sprints, cada uma com duração de duas semanas, com o objetivo de distribuir e gerenciar as atividades de forma mais eficiente.
 
-## Calendário
-|                                 |        |       | Semana 1      | Semana 2      | Semana 3      | Semana 4      | Semana 5      | Semana 6      | Semana 7      | Semana 8      | Semana 9      | Semana 10     |
-| ------------------------------- | ------ | ----- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Atividade                       | Início | Fim   | 22/04 - 29/04 | 30/04 - 06/05 | 07/05 - 13/05 | 14/05 - 20/05 | 21/05 - 27/05 | 28/05 - 03/06 | 04/06 - 10/06 | 11/06 - 17/06 | 18/06 - 24/06 | 25/06 - 01/07 |
-| **SPRINT 1**                    | 22/04  | 06/05 | x             | x             | x             |               |               |               |               |               |               |               |
-| Alinhar objetivos e estratégias | 22/04  | 06/05 | x             | x             | x             |               |               |               |               |               |               |               |
-| **SPRINT 2**                    | 30/04  | 20/05 |               | x             | x             | x             |               |               |               |               |               |               |
-| **SPRINT 3**                    | 07/05  | 03/06 |               |               |               | x             | x             | x             |               |               |               |               |
+Durante cada sprint, que se estenderá por duas semanas, as atividades específicas a serem realizadas serão detalhadas e atribuídas aos subgrupos durante as Sprint Plannings. As funcionalidades a serem desenvolvidas serão definidas nesses encontros, permitindo uma abordagem mais ágil e adaptável à medida que o projeto avança.
+## Organização da Equipe
 
+&emsp;&emsp;Para o decorrer do projeto decidimos dividir a equipe em dois subgrupos da seguinte forma:
 
+- **SubGrupo 1**: Eurico Menezes de Abreu Neto, João Henrique Marques Calzavara
+- **SubGrupo 2**: Mateus Moreira Lima, Paulo Vitor, Victor Rayan Adriano Ferreira
+## Calendário das sprints
 
+|**Sprint**|**Data de início**|**Data de fim**|**Subgrupo**|**Funcionalidades a serem feitas**|
+| ---------| -----------------| --------------| -----------| ---------------------------------|
+|**SPRINT 1**|  22/04 | 06/05 | SubGrupo 1 | - |
+|**SPRINT 1**|  22/04 | 06/05 | SubGrupo 2 | - |
+|-|-|-|-|-|
+|**SPRINT 2**|  06/05 | 06/05 | SubGrupo 1 | - |
+|**SPRINT 2**|  06/05 | 20/05 | SubGrupo 2 | - |
+|-|-|-|-|-
+|**SPRINT 3**|  20/05 | 03/06 | SubGrupo 1 | - |
+|**SPRINT 3**|  20/05 | 03/06 | SubGrupo 2 | - |
+|-|-|-|-|-|
+|**SPRINT 4**|  03/06 | 17/06 | SubGrupo 1 | - |
+|**SPRINT 4**|  03/06 | 17/06 | SubGrupo 2 | - |
+|-|-|-|-|
+|**SPRINT 5**|  17/06 | 17/06 | SubGrupo 1 | - |
+|**SPRINT 5**|  17/06 | 01/07 | SubGrupo 2 | - |
 
-
-//
-
-Semana 1:
+- Sprint 1:
     alinhar objetivos e estratégias.
     Protótipação utilizando o Figma.
     Definição Stacks e configuração de ambiente
@@ -29,3 +40,10 @@ Semana 1:
 
     Desenvolvimento da funcionalidade de ativação por aproximação em React Native.
     Testes unitários e integreção com microserviços chatbot e marketing.
+
+## Histórico de versões
+
+| **Versão** | **Alteração**      | **Responsável** | **Data**   |
+| ---------- | ------------------ | --------------- | ---------- |
+| 1.0        | Criaçao do arquivo | Victor Rayan <br> Mateus Moreira  | 18/04/2024 |
+| 2.0        | Atualização do cronograma | João Henrique  | 22/04/2024 |
