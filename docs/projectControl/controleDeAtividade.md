@@ -23,13 +23,13 @@
 | **O que fez**                                                                                    | **Data da alteração** | **Responsável** | **Tempo para produção** |
 | ------------------------------------------------------------------------------------------------ | --------------------- | --------------- | ----------------------- |
 | Criação da planilha com os épicos, features, funcionalidades e critérios de aceitação do projeto | 15/04/2024            | João Henrique   | 1 hora                  |
-| Criação do documento do readme                                                                  | 16/04/2024            | João Henrique   | 40 minutos              |
+| Criação do documento do readme                                                                   | 16/04/2024            | João Henrique   | 40 minutos              |
 | Criação do documento de controle de atividades                                                   | 16/04/2024            | João Henrique   | 20 minutos              |
-| Criação documento do cronograma em conjunto com o Eurico          | 17/04/2024            | João Henrique  | 30 minutos              |
-| Atualização do readme com correção de alguns erros                                                   | 18/04/2024            | João Henrique   | 20 minutos              |
-| Criação do documento do plano de custo do projeto                                       | 18/04/2024            | João Henrique   | 1 hora e 30 minutos             |
-| Adicionando mais documentos no pages                                      | 19/04/2024            | João Henrique   | 30 minutos             |
-| Organizando cronograma até o final do semestre | 22/04/2024            | João Henrique   | 1 hora              |
+| Criação documento do cronograma em conjunto com o Eurico                                         | 17/04/2024            | João Henrique   | 30 minutos              |
+| Atualização do readme com correção de alguns erros                                               | 18/04/2024            | João Henrique   | 20 minutos              |
+| Criação do documento do plano de custo do projeto                                                | 18/04/2024            | João Henrique   | 1 hora e 30 minutos     |
+| Adicionando mais documentos no pages                                                             | 19/04/2024            | João Henrique   | 30 minutos              |
+| Organizando cronograma até o final do semestre                                                   | 22/04/2024            | João Henrique   | 1 hora                  |
 
 <br>
 
@@ -37,9 +37,12 @@
 
 <br>
 
-| **O que fez** | **Data da alteração** | **Responsável** | **Tempo para produção** |
-| ------------- | --------------------- | --------------- | ----------------------- |
-| -             | -                     | -               | -                       |
+| **O que fez**                                                         | **Data da alteração** | **Responsável** | **Tempo para produção** |
+| --------------------------------------------------------------------- | --------------------- | --------------- | ----------------------- |
+| Clone do repositório do GitLab para o Github e configuração do mkdocs | 15/04/2024            | Mateus Moreira  | 1 hora                  |
+| Criação do Quadro de conhecimento                                     | 15/04/2024            | Mateus Moreira  | 30 minutos              |
+| Criação da versão inicial do Cronograma                               | 15/04/2024            | Mateus Moreira  | 30 minutos              |
+| Atualização de artefatos do Readme para o serviço do mkdocs           | 15/04/2024            | Mateus Moreira  | 20 minutos              |
 
 <br>
 
