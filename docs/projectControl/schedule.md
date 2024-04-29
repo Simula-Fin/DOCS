@@ -11,25 +11,25 @@ Durante cada sprint, que se estenderá por duas semanas, as atividades específi
 - **SubGrupo 2**: Mateus Moreira Lima, Paulo Vitor, Victor Rayan Adriano Ferreira
 ## Calendário das sprints
 
-|**Sprint**|**Data de início**|**Data de fim**|**Subgrupo**|**Funcionalidades a serem feitas**|
-| ---------| -----------------| --------------| -----------| ---------------------------------|
-|**SPRINT 1**|  22/04 | 06/05 | SubGrupo 1 | - |
-|**SPRINT 1**|  22/04 | 06/05 | SubGrupo 2 | - |
-|-|-|-|-|-|
-|**SPRINT 2**|  06/05 | 06/05 | SubGrupo 1 | - |
-|**SPRINT 2**|  06/05 | 20/05 | SubGrupo 2 | - |
-|-|-|-|-|-
-|**SPRINT 3**|  20/05 | 03/06 | SubGrupo 1 | - |
-|**SPRINT 3**|  20/05 | 03/06 | SubGrupo 2 | - |
-|-|-|-|-|-|
-|**SPRINT 4**|  03/06 | 17/06 | SubGrupo 1 | - |
-|**SPRINT 4**|  03/06 | 17/06 | SubGrupo 2 | - |
-|-|-|-|-|
-|**SPRINT 5**|  17/06 | 17/06 | SubGrupo 1 | - |
-|**SPRINT 5**|  17/06 | 01/07 | SubGrupo 2 | - |
-|-|-|-|-|-|
-|**SPRINT 6**|  01/07 | 08/07 | Subgrupo 1 | - |
-|**SPRINT 6**|  01/07 | 08/07 | Subgrupo 2 | - |
+| **Sprint**   | **Data de início** | **Data de fim** | **Subgrupo** | **Atividade**                                                            |
+| ------------ | ------------------ | --------------- | ------------ | ------------------------------------------------------------------------ |
+| **SPRINT 1** | 22/04              | 06/05           | SubGrupo 1   | Reunião de kick-off com a equipe para alinhar objetivos e estratégias.   |
+| **SPRINT 1** | 22/04              | 06/05           | SubGrupo 2   | Reunião de kick-off com a equipe para alinhar objetivos e estratégias.   |
+| -            | -                  | -               | -            | -                                                                        |
+| **SPRINT 2** | 06/05              | 06/05           | SubGrupo 1   | Design detalhado das funcionalidades utilizando o Figma.                 |
+| **SPRINT 2** | 06/05              | 20/05           | SubGrupo 2   | Design detalhado das funcionalidades utilizando o Figma.                 |
+| -            | -                  | -               | -            | -                                                                        |
+| **SPRINT 3** | 20/05              | 03/06           | SubGrupo 1   | Configuração do ambiente de analytics (Sonar).                           |
+| **SPRINT 3** | 20/05              | 03/06           | SubGrupo 2   | Configuração do ambiente de desenvolvimento                              |
+| -            | -                  | -               | -            | -                                                                        |
+| **SPRINT 4** | 03/06              | 17/06           | SubGrupo 1   | Desenvolvimento da lógica do microserviço de CRUD de usuário;            |
+| **SPRINT 4** | 03/06              | 17/06           | SubGrupo 2   | Desenvolvimento da lógica do microserviço de CRUD de usuário;            |
+| -            | -                  | -               | -            |
+| **SPRINT 5** | 17/06              | 17/06           | SubGrupo 1   | Desenvolvimento da lógica do microserviço de simulação de empréstimo;    |
+| **SPRINT 5** | 17/06              | 01/07           | SubGrupo 2   | Desenvolvimento da lógica do microserviço de simulação de empréstimo;    |
+| -            | -                  | -               | -            | -                                                                        |
+| **SPRINT 6** | 01/07              | 08/07           | Subgrupo 1   | Desenvolvimento da lógica do microserviço de simulação de consórcio;     |
+| **SPRINT 6** | 01/07              | 08/07           | Subgrupo 2   | Desenvolvimento da lógica do microserviço de simulação de financiamento; |
 
 - Sprint 1 - **Planejamento e Design** :
     - Semana 1:
@@ -66,7 +66,8 @@ Durante cada sprint, que se estenderá por duas semanas, as atividades específi
 
 ## Histórico de versões
 
-| **Versão** | **Alteração**      | **Responsável** | **Data**   |
-| ---------- | ------------------ | --------------- | ---------- |
-| 1.0        | Criaçao do arquivo | Victor Rayan <br> Mateus Moreira  | 18/04/2024 |
-| 2.0        | Atualização do cronograma | João Henrique  | 22/04/2024 |
+| **Versão** | **Alteração**                      | **Responsável**                  | **Data**   |
+| ---------- | ---------------------------------- | -------------------------------- | ---------- |
+| 1.0        | Criaçao do arquivo                 | Victor Rayan <br> Mateus Moreira | 18/04/2024 |
+| 2.0        | Atualização do cronograma          | João Henrique                    | 22/04/2024 |
+| 3.0        | Adição de atividades ao cronograma | Mateus Moreira                   | 29/04/2024 |
