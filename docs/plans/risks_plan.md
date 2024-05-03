@@ -32,8 +32,8 @@
 #### Prioridade
 &emsp;&emsp; Com base nos valores de impacto e probabilidade, determina-se a prioridade dos riscos, o que indica a urgência na adoção de medidas para mitigar ou resolver qualquer risco que possa impactar o progresso do projeto.
 
-|**Impacto**|**Descrição**|**Peso**||**Impacto**|**Descrição**|**Peso**|    
-| ----------  | ------------- | -------- || ----------  | ------------- | -------- |
+|**Impacto**|**Descrição**|**Peso**|**Impacto**|**Descrição**|**Peso**|    
+| ----------  | ------------- | -------- | ----------  | ------------- | -------- |
 | Muito baixa | 1 |  2  | 3 | 4  |  5     |
 | Baixa       | 2 |  4  | 6 | 8  |  10    |
 | Média       | 3 |  6  | 9 | 12 |   15   |

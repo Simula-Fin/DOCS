@@ -30,6 +30,7 @@
 | Criação do documento do plano de custo do projeto                                                | 18/04/2024            | João Henrique   | 1 hora e 30 minutos     |
 | Adicionando mais documentos no pages                                                             | 19/04/2024            | João Henrique   | 30 minutos              |
 | Organizando cronograma até o final do semestre                                                   | 22/04/2024            | João Henrique   | 1 hora                  |
+| Criando plano de riscos                                                  | 03/05/2024            | João Henrique   | 1 hora e meia                |
 
 <br>
 
