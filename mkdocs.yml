@@ -50,7 +50,7 @@ nav:
       - Cronograma: projectControl/schedule.md
   - Planos:
       - Plano de custos: plans/costs_plan.md
-      # - Plano de riscos: plans/risk_plan.md
+      - Plano de riscos: plans/risks_plan.md
   - Definições do Projeto:
       - Metodologias: projectDescription/index.md
       - Funcionalidades: projectDescription/Funcionalidades.md
