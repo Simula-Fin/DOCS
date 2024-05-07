@@ -23,6 +23,7 @@
 - Simulação de empréstimo;
 - Simulação de financiamento;
 - Simulação de consorcio;
+- Rede de empréstimos Peer To Peer
 
 ### Critérios de aceitação:
 
@@ -30,12 +31,6 @@
 
 &emsp;&emsp;Nessa planilha separamos os épicos, features e os critérios de aceitação de cada funcionalidade.
 
-### Organização da Equipe
-
-&emsp;&emsp;Para o decorrer do projeto decidimos dividir a equipe em dois subgrupos da seguinte forma:
-
-- **SubGrupo 1**: Eurico Menezes de Abreu Neto, João Henrique Marques Calzavara
-- **SubGrupo 2**: Mateus Moreira Lima, Paulo Vitor, Victor Rayan Adriano Ferreira
 
 ## Artefatos
 

@@ -51,6 +51,7 @@ nav:
   - Planos:
       - Plano de custos: plans/costs_plan.md
       - Plano de riscos: plans/risks_plan.md
+      - Plano de Testes: planoTestes.md
   - Definições do Projeto:
       - Metodologias: projectDescription/index.md
       - Funcionalidades: projectDescription/Funcionalidades.md

@@ -74,11 +74,8 @@
 | Endpoints Iniciais backend de user com JWT            |     24/04                     | Victor R                      |  3h               |
 | Documento de arquitetura do projeto |  6/5 | Victor R | 40 min |
 | Melhoria geral na documentação |  6/5 | Victor R | 30 min |
+| Modelagem do banco de dados conceitual (MER) |  7/5 | Victor R | 1h  |
+| Adição dos novos documentos MER e Testes na documentação |  7/5 | Victor R | 20min  |
 
 <br>
 
-## Histórico de versões
-
-| **Versão** | **Alteração**      | **Responsável** | **Data**   |
-| ---------- | ------------------ | --------------- | ---------- |
-| 1.0        | Criaçao do arquivo | João Henrique   | 16/04/2024 |

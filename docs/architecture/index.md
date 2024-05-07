@@ -25,3 +25,21 @@ Quanto ao banco de dados, a opção pelo PostgreSQL se deve à sua robustez, con
 A arquitetura desse projeto também inclui o SQLAlchemy para interagir com o banco de dados. SQLAlchemy é um ORM (Object-Relational Mapping) em Python que permite mapear objetos Python para tabelas no banco de dados relacional de forma intuitiva.
 
 ![Arquitetura do Projeto](../assets/Dynamic/arquitetura.jpg)
+
+
+## MODELAGEM DO BANCO DE DADOS
+
+### Modelagem Conceitual (Modelagem de Entidade-Relacionamento - MER)
+
+A modelagem do banco de dados para este projeto segue uma abordagem relacional, O modelo conceitual, também conhecido como modelo de Entidade-Relacionamento (ER), é uma etapa fundamental na modelagem de dados, pois captura os principais conceitos e relações do mundo real que serão incorporados ao sistema. A imagem a seguir mostra o MER construído feito no BrModelo.
+
+<a href="../assets/Dynamic/banco.png" target="_blank">
+    <img src="../assets/Dynamic/banco.png" alt="Modelagem do Projeto" style="max-width: 100%; height: auto;">
+</a>
+
+
+## SONAR CLOUD
+
+O SonarCloud é uma ferramenta essencial para garantir a qualidade do código em nosso projeto. Utilizando análises estáticas avançadas, o SonarCloud identifica potenciais problemas de código, vulnerabilidades de segurança, bugs e padrões de codificação inconsistentes.
+
+Ao integrar o SonarCloud em nosso fluxo de trabalho, podemos realizar verificações automáticas de código em cada alteração, proporcionando feedback instantâneo aos desenvolvedores. Isso nos ajuda a detectar e corrigir problemas de código precocemente, evitando que se tornem problemas maiores no futuro.

@@ -8,7 +8,7 @@ No nosso projeto de desenvolvimento de software, é crucial adotar estratégias 
 
 ## Reuniões Diárias Adaptadas (Daily):
 
-Realizaremos reuniões diárias curtas, conhecidas como daily, via WhatsApp, onde cada membro da equipe compartilhará o progresso realizado desde a última reunião, os planos para o dia seguinte e quaisquer obstáculos encontrados. Essas mensagens ajudarão a identificar rapidamente quaisquer problemas ou atrasos e a tomar medidas corretivas imediatas.
+Realizaremos reuniões diárias curtas, conhecidas como daily, via DISCORD via mensagens, onde cada membro da equipe compartilhará o progresso realizado desde a última reunião, os planos para o dia seguinte e quaisquer obstáculos encontrados. Essas mensagens ajudarão a identificar rapidamente quaisquer problemas ou atrasos e a tomar medidas corretivas imediatas.
 
 
 ## Quadro Kanban:
