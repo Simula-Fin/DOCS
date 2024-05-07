@@ -13,6 +13,13 @@
 | Criação documento da Metodologia                                         | 17/04/2024            | Eurico Menezes  | 30 minutos              |
 | Criação documento do cronograma em conjunto com o João Henrique          | 17/04/2024            | Eurico Menezes  | 30 minutos              |
 | Atualização do README e adição da participação no controle de atividades | 17/04/2024            | Eurico Menezes  | 10 minutos              |
+| Configuração SonarCloud para back-end                                    | 23/04/2024            | Eurico Menezes  | 1 hora                  |
+| Configuração SonarCloud para front-end                                   | 23/04/2024            | Eurico Menezes  | 1 hora                  |
+| Gravar vídeo integração GitHub com SonarCloud                            | 26/04/2024            | Eurico Menezes  | 30 minutos              |
+| Protótipo inicial no Figma com grupo                                     | 30/04/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
+| Edição para tornar o protótipo navegável                                 | 30/04/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
+| Criação plano de testes                                                  | 07/05/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
+
 
 <br>
 
