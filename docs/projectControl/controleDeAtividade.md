@@ -57,13 +57,16 @@
 
 <br>
 
-## Vitor Rayan
+## Victor Rayan
 
 <br>
 
 | **O que fez** | **Data da alteração** | **Responsável** | **Tempo para produção** |
 | ------------- | --------------------- | --------------- | ----------------------- |
-| -             | -                     | -               | -                       |
+| Subir e configurar ambiente backend             |   24/04                   | Victor R              | 2h                      |
+| Endpoints Iniciais backend de user com JWT            |     24/04                     | Victor R                      |  3h               |
+| Documento de arquitetura do projeto |  6/5 | Victor R | 40 min |
+| Melhoria geral na documentação |  6/5 | Victor R | 30 min |
 
 <br>
 

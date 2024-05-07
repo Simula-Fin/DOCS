@@ -40,21 +40,6 @@ Além das entregas regulares de releases, também dedicaremos tempo para realiza
 Com essa abordagem ágil adaptada do Scrum, estamos confiantes de que seremos capazes de entregar um produto de alta qualidade, atendendo às necessidades e expectativas do cliente de forma eficaz e eficiente.
 
 
-| Data       | Atividade                                          |
-|------------|----------------------------------------------------|
-| 17/04/2024 | Início do projeto com o SubGrupo       |
-| 24/04/2024 | Semana 01 - Planejamento das Stacks e organização geral do grupo|
-| 01/05/2024 | Semana 02 - Ambientação e Configuração do ambiente de desenvolvimento|
-| 08/05/2024 | Semana 03 - Desenvolvimento das funcionalidades básicas|
-| 15/05/2024 | Semana 04 - Implementação de simulação de empréstimo|
-| 22/05/2024 | Semana 05 - Implementação de simulação de financiamento|
-| 29/05/2024 | Semana 06 - Implementação de simulação de consórcio|
-| 05/06/2024 | Semana 07 - Integração do projeto com outros projetos do grupo|
-| 10/06/2024 | Entrega de release 1                    |
-| 01/07/2024 | Semana 09 - Testes e correções                   |
-| 08/07/2024 | Entrega de release 2                    |
-| 15/07/2024 | Semana 10 - Iteração final e Entrega de release 3  |
-
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor(es) |

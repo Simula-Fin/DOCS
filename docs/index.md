@@ -41,12 +41,14 @@
 
 &emsp;&emsp;Abaixo os artefatos de documentação feitos sobre o projeto:
 
-- [Metodologia](docs/metodologia.md)
-- [Cronograma](docs/cronograma.md)
-- [Controle de Atividades](docs/controleDeAtividade.md)
+- [Metodologia](planning.md)
+- [Cronograma](projectControl/schedule.md)
+- [Controle de Atividades](projectControl/controleDeAtividade.md)
 - [Planilha das funcionalidades](https://docs.google.com/spreadsheets/d/1H5mb4iS73AmVXcUuIG2dxXFkMyd6289nWqKq0rLbWsw/edit?usp=sharing)
-- [Plano de custo](docs/planoCusto.md)
-- [Lean Inception](docs/lean/index.md)
+- [Plano de custo](plans/costs_plan.md)
+- [Lean Inception](lean/index.md)
+
+
 
 ## Histórico de versão
 
