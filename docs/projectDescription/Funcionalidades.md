@@ -8,6 +8,7 @@
 - Simulação de consórcio: Desenvolvimento de uma funcionalidade que possibilite aos usuários simular participações em consórcios, levando em conta informações como valor da cota e prazo.
 - Integração com o chatbot: Integração do sistema com o chatbot da equipe de marketing.
 - Integração com marketing: Integração com o módulo de marketing para consumo das API's.
+- Rede de empréstimos: Peer to Peer (Conectando Investisdores a tomadores de empréstimos evitando a burocracia)
 
 ## Critérios de aceitação:
 
