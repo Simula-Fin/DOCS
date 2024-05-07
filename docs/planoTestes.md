@@ -33,3 +33,9 @@ Os seguintes recursos serão necessários para a execução dos testes:
 - Ferramentas de teste, SonarCloud até o momento.
 - Acesso à planilha de critérios de aceitação para referência durante os testes.
 - Equipe de testes para execução e validação dos casos de teste.
+
+  ## Histórico de versão
+
+| Data | Versão | Descrição | Autor(es) |
+| ---- | ------ | --------- | --------- |
+| 07/05/2024 | 1.0 | Criação do documento do plano de testes | Eurico Neto |
