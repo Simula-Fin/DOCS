@@ -60,7 +60,9 @@
 
 | **O que fez** | **Data da alteração** | **Responsável** | **Tempo para produção** |
 | ------------- | --------------------- | --------------- | ----------------------- |
-| -             | -                     | -               | -                       |
+| Subir e configurar ambiente frontend   |   27/04                   | Paulo Abi Acl            | 2h                      |
+| Protótipo inicial no Figma com grupo   |   30/04                   | Paulo Abi Acl            | 1 hora e 30 minutos     |
+| Desenvolvimento do Protótipo           |   01/05                   | Paulo Abi Acl            | 4h                      |
 
 <br>
 
