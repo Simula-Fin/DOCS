@@ -17,3 +17,9 @@ Para saber mais sobre as diretrizes de estilo, consulte o [Guia de estilo](guide
 Para acessar o protótipo de alta fidelidade navegável [clique aqui.](https://www.figma.com/proto/bVJ9v9echmTtU5C5WQ1Pim/Untitled?type=design&node-id=35-319&t=JXXPfTNwno2BCSep-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=31%3A361&mode=design)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FbVJ9v9echmTtU5C5WQ1Pim%2FUntitled%3Ftype%3Ddesign%26node-id%3D35-319%26t%3DJXXPfTNwno2BCSep-1%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D31%253A361%26mode%3Ddesign" allowfullscreen></iframe>
+
+## 3. Histórico de Revisão
+
+| Data       | Versão |      Modificação      |    Autor     |
+| :--------- | :----- | :-------------------- | :----------- |
+|07/05/2024| 0.1 | Criação do documento | Mateus Moreira Lima |
