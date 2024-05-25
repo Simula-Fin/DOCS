@@ -19,9 +19,14 @@
 | Protótipo inicial no Figma com grupo                                     | 30/04/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
 | Edição para tornar o protótipo navegável                                 | 30/04/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
 | Criação plano de testes                                                  | 07/05/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
+| Análise automática por uma análise de Integração Contínua (CI) para garantir a qualidade do código em cada commit/push| 23/05/2024            | Eurico Menezes  | 1 hora e 30 minutos     |
+| Verificação de cobertura de testes para monitorar e garantir que o código esteja bem testado e confiável. (test coverage somente no back por enquanto)| 23/05/2024            | Eurico Menezes  | 45 minutos   |
+| Arquivos de pipeline iniciais para configurar os processos de CI/CD, automatizando a construção e teste do código| 23/05/2024            | Eurico Menezes  | 1 hora    |
+| Componentização da sidebar, routes do front, icones da sidebar, telas das simulações de financiamento, consorcio e emprestimo do frontend.| 24/05/2024            | Eurico Menezes e João Henrique | 4 horas e meia    |
 
 
-<br>
+
+
 
 ## João Henrique
 
@@ -37,7 +42,11 @@
 | Criação do documento do plano de custo do projeto                                                | 18/04/2024            | João Henrique   | 1 hora e 30 minutos     |
 | Adicionando mais documentos no pages                                                             | 19/04/2024            | João Henrique   | 30 minutos              |
 | Organizando cronograma até o final do semestre                                                   | 22/04/2024            | João Henrique   | 1 hora                  |
+| Protótipo inicial no Figma com grupo                                     | 30/04/2024            | João Henrique  | 1 hora e 30 minutos     |
 | Criando plano de riscos                                                  | 03/05/2024            | João Henrique   | 1 hora e meia                |
+| Componentização da sidebar, routes do front, icones da sidebar, telas das simulações de financiamento, consorcio e emprestimo do frontend.| 24/05/2024            | João Henrique e Eurico Menezes | 4 horas e meia    |
+| Atualização controleDeAtividade | 25/05/2024            | João Henrique | 15 minutos    |
+
 
 <br>
 
