@@ -5,10 +5,11 @@
 A arquitetura de projeto a ser empregada por este projeto será o Model-View-Controller (MVC), em que o modelo do banco de dados e as controladoras estão no
 Backend, enquanto as visualizações estarão no Frontend. Esta arquitetura foi escolhida pela modularização dos serviços que permite a adaptação do modelo.
 
-
 ## BACKEND
 
 O projeto é orientado a microsserviços, com o backend construído em FastAPI, Python e testes utilizando pytest. O uso do FastAPI proporciona uma rápida e eficiente construção de APIs.
+
+Teremos dois microsserviços, representandos pelo card "Back-end", onde um se concentra na parte de Simulações e o outro na rede de empréstimos p2p.
 
 A escolha do pytest para testes se deve à sua flexibilidade e extensibilidade, permitindo a criação de testes unitários, de integração e funcionais de forma organizada e escalável.
 
@@ -24,8 +25,9 @@ Quanto ao banco de dados, a opção pelo PostgreSQL se deve à sua robustez, con
 
 A arquitetura desse projeto também inclui o SQLAlchemy para interagir com o banco de dados. SQLAlchemy é um ORM (Object-Relational Mapping) em Python que permite mapear objetos Python para tabelas no banco de dados relacional de forma intuitiva.
 
-![Arquitetura do Projeto](../assets/Dynamic/arquitetura.jpg)
+A imagem abaixo representa a arquitetura do projeto, onde cada microsserviço é representando pelo card do back-end, que serão consumidos pelo front-end.
 
+![Arquitetura do Projeto](../assets/Dynamic/arquitetura.jpg)
 
 ## MODELAGEM DO BANCO DE DADOS
 
@@ -36,7 +38,6 @@ A modelagem do banco de dados para este projeto segue uma abordagem relacional, 
 <a href="../assets/Dynamic/banco.png" target="_blank">
     <img src="../assets/Dynamic/banco.png" alt="Modelagem do Projeto" style="max-width: 100%; height: auto;">
 </a>
-
 
 ## SONAR CLOUD
 
