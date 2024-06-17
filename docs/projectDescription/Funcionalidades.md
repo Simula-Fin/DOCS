@@ -25,3 +25,4 @@
 | ---------- | --------------------------------------------------------------------------- | --------------- | ---------- |
 | 1.0        | Criaçao do arquivo                                                          | João Henrique   | 18/04/2024 |
 | 2.0        | Detalhamento de funcionalidades e adição do quadro de critério de aceitação | Mateus Moreira  | 29/04/2024 |
+| 3.0        | Criação de novo épico com funcionalidades p2p                               | Mateus Moreira  | 15/06/2024 |
