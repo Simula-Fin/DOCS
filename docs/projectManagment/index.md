@@ -44,7 +44,7 @@
     - Adicionamos o vídeo dias antes do prazo final que era dia 24/06/2024;
     - Vídeo está disponível no seguinte link: [Pitch do grupo Simula-Fin](https://www.youtube.com/watch?v=CMIlVEfxVMw);
     - Pdf do slide utilizado está disponível em: [PDF da apresentação do grupo Simula-Fin](../assets/Pitch/PitchSimulaFin.pdf);
-    - Link da aplicação disponível em: [Deploy do grupo Simula-Fin](https://frontend-indol-pi.vercel.app/);https://frontend-indol-pi.vercel.app/
+    - Link da aplicação disponível em: [Deploy do grupo Simula-Fin](https://frontend-indol-pi.vercel.app/);
 
 ## Experiência da gestão da equipe
 
