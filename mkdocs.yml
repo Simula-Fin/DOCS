@@ -56,8 +56,8 @@ nav:
       - Metodologias: projectDescription/index.md
       - Funcionalidades: projectDescription/Funcionalidades.md
       # - Plano de qualidade: plans/quality_plan.md
-     # - Plano de comunicacao: plans/communication_plan.md
-  #- Gestão de Projeto:
+      # - Plano de comunicacao: plans/communication_plan.md
+  - Gestão de Projeto:
       - Modelo de gestão: projectManagment/index.md
   - Lean Inception:
       - Dinâmicas: lean/dynamics.md
