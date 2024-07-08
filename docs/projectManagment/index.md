@@ -12,6 +12,7 @@
 &emsp;&emsp;No decorrer do projeto, utilizamos dois microsserviços desenvolvidos por outros grupos, o que se mostrou uma experiência valiosa, apesar de alguns desafios enfrentados.
 
 **Microserviço de Dados de Ações (Stock Compass)**
+
 &emsp;&emsp;O primeiro microsserviço consumido foi o de dados de ações, fornecido pelo grupo Stock Compass. Essa integração nos permitiu acessar informações cruciais sobre o mercado financeiro, enriquecendo as funcionalidades da nossa aplicação.
 
 - Desafios:
@@ -23,6 +24,7 @@
     - Qualidade dos Dados: O microsserviço forneceu dados precisos e atualizados, o que agregou valor à nossa aplicação.
 
 **Microserviço de Criptografia (CryptoBot)**
+
 &emsp;&emsp;O segundo microsserviço consumido foi o de criptografia RSA, desenvolvido pelo grupo CryptoBot. Essa funcionalidade nos permitiu adicionar uma camada extra de segurança à nossa aplicação, protegendo dados sensíveis dos usuários.
 
 - Desafios:
@@ -30,6 +32,11 @@
     - Falta de tempo em decorrência de outras matérias.
 - Benefícios:
     - Segurança Reforçada: A criptografia dos dados garantiu a confidencialidade das informações, protegendo-as de acessos não autorizados.
+
+**Microserviço de Chatbot(PixIt)**
+
+&emsp;&emsp;O terceiro microsserviço consumido foi o de chatbot, desenvolvido pelo aluno do PixIt. Conseguimos adicionar um chatbot para que os usuários do simula-fin pudessem tirar dúvidas sobre ações e investimentos. Esse microsserviço foi tranquilo de ser consumido pelo fato do aluno responsável pela funcionalidade nos fornecer todo apoio na hora de consumir, chaves de api etc.
+
 
 **Conclusão**
 &emsp;&emsp;Em suma, a experiência de consumo de microsserviços foi positiva, apesar dos desafios enfrentados. A utilização desses serviços nos permitiu acelerar o desenvolvimento da nossa aplicação, adicionar funcionalidades valiosas e garantir a qualidade e segurança dos dados.

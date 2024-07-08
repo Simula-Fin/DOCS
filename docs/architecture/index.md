@@ -9,7 +9,7 @@ Backend, enquanto as visualizações estarão no Frontend. Esta arquitetura foi 
 
 O projeto é orientado a microsserviços, com o backend construído em FastAPI, Python e testes utilizando pytest. O uso do FastAPI proporciona uma rápida e eficiente construção de APIs.
 
-Teremos dois microsserviços, representandos pelo card "Back-end", onde um se concentra na parte de Simulações e o outro na rede de empréstimos p2p.
+Teremos dois microsserviços, onde um se concentra na parte de Simulações e o outro na rede de empréstimos p2p.
 
 A escolha do pytest para testes se deve à sua flexibilidade e extensibilidade, permitindo a criação de testes unitários, de integração e funcionais de forma organizada e escalável.
 
@@ -25,9 +25,10 @@ Quanto ao banco de dados, a opção pelo PostgreSQL se deve à sua robustez, con
 
 A arquitetura desse projeto também inclui o SQLAlchemy para interagir com o banco de dados. SQLAlchemy é um ORM (Object-Relational Mapping) em Python que permite mapear objetos Python para tabelas no banco de dados relacional de forma intuitiva.
 
-A imagem abaixo representa a arquitetura do projeto, onde cada microsserviço é representando pelo card do back-end, que serão consumidos pelo front-end.
+A imagem abaixo representa a arquitetura do projeto, onde cada microsserviço é representando pelo card do SIMULA-FIN, que serão consumidos pelo front-end.
+Além das APIS, de outros grupos que foram consumidas. A api STRIPE representa uma api de pagamentos a qual foi feita a simulação dos pagamentos com base no funcionamento da mesma.
 
-![Arquitetura do Projeto](../assets/Dynamic/arquitetura.jpg)
+![Arquitetura do Projeto](../assets/Dynamic/arq2.png)
 
 ## MODELAGEM DO BANCO DE DADOS
 
@@ -35,8 +36,8 @@ A imagem abaixo representa a arquitetura do projeto, onde cada microsserviço é
 
 A modelagem do banco de dados para este projeto segue uma abordagem relacional, O modelo conceitual, também conhecido como modelo de Entidade-Relacionamento (ER), é uma etapa fundamental na modelagem de dados, pois captura os principais conceitos e relações do mundo real que serão incorporados ao sistema. A imagem a seguir mostra o MER construído feito no BrModelo.
 
-<a href="../assets/Dynamic/banco.png" target="_blank">
-    <img src="../assets/Dynamic/banco.png" alt="Modelagem do Projeto" style="max-width: 100%; height: auto;">
+<a href="../assets/Dynamic/mer.png" target="_blank">
+    <img src="../assets/Dynamic/mer.png" alt="Modelagem do Projeto" style="max-width: 100%; height: auto;">
 </a>
 
 ## SONAR CLOUD

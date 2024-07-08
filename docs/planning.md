@@ -15,6 +15,8 @@ Realizaremos reuniões diárias curtas, conhecidas como daily, via DISCORD por m
 
 Utilizaremos um quadro Kanban físico ou uma ferramenta online para visualizar o fluxo de trabalho e o status de cada tarefa. O quadro Kanban será dividido em colunas representando os estágios do processo, via trelo, permitindo que todos na equipe acompanhem facilmente o progresso das atividades.
 
+![Kanban](assets/Dynamic/kanban.png.png)
+
 ## Estrutura de Sprints:
 
 Cada sprint terá uma duração de duas semanas, começando na segunda-feira e terminando na sexta-feira da segunda semana. Durante esse período, a equipe se concentrará na implementação de funcionalidades específicas, no teste e na iteração contínua do produto.
